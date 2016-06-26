@@ -44,26 +44,22 @@ CANCEL [ reservation number | name | phone-number]
   
 
 PRINT [name | phone-number]
-
-  -Print client info that match the name or phone number by using a key value(name or phone-number)
+  - Print client info that match the name or phone number by using a key value(name or phone-number)
 
 PRINT CONF [SEQNO | NAME | PHONE]
-
-  -According to one option among three factors(SEQNO, NAME, PHONE), print all node.
-  -All printing result should be sorted by ascending order
+  - According to one option among three factors(SEQNO, NAME, PHONE), print all node.
+  - All printing result should be sorted by ascending order
 
 PRINT WAIT
-
-  -Print wait list by priority
-  
+  - Print wait list by priority
   
 *The configuration file*
 
 Input data file
 
-  -This file is written command add, update a record or delete.
+  - This file is written command add, update a record or delete.
   
 Output result file
 
-  -Record the result of implement command and error mesg
+  - Record the result of implement command and error mesg
   
