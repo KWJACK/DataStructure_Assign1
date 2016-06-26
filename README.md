@@ -2,9 +2,7 @@
 *Introduction*
 
  This assignment proceeded in fall semester 2015.
- 
 Our purpose is making reservation system for flight.
-
 But obivously in here, we will make only part of database.
 
 *Condition*
@@ -59,6 +57,7 @@ PRINT WAIT
   
   
 *The configuration file*
+
 Input data file
 
   -This file is written command add, update a record or delete.
