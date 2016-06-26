@@ -1,16 +1,16 @@
 ///////////////////////////////////////////////////////////////////////////////
-// File Name : Queue.h														 //
-// Date : 2015/10/03														 //
-// Compiler : g++ 4.6.3														 //
-// Os : ubuntu 12.04.3														 //
-// Author : Jae Ken Lee														 //
-// Student ID : 2012722081													 //
-// --------------------------------------------------------------------------//
-// ver : 1.0																 //
-// Description : Queue class is decribed the data structure about FIFO		 //
-// (first in, first oout). but in here, the thing of out is possible anywhere//
-// and deletion will execute in BST class, not here							 //
-// Etc : Data Structure Assignment #1 (BST)									 //
+// File Name : Queue.h										
+// Date : 2015/10/03										
+// Compiler : g++ 4.6.3										
+// Os : ubuntu 12.04.3										
+// Author : Jae Ken Lee										
+// Student ID : 2012722081									
+// --------------------------------------------------------------------------
+// ver : 1.0								
+// Description : Queue class is decribed the data structure about FIFO		
+// (first in, first oout). but in here, the thing of out is possible anywhere
+// and deletion will execute in BST class, not here				
+// Etc : Data Structure Assignment #1 (BST)					
 ///////////////////////////////////////////////////////////////////////////////
 #pragma once
 #include "Node.h"
