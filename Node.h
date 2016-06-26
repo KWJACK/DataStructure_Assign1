@@ -1,17 +1,16 @@
 ///////////////////////////////////////////////////////////////////////////////
-// File Name : Node.h														 //
-// Date : 2015/10/03														 //
-// Compiler : g++ 4.6.3														 //
-// Os : ubuntu 12.04.3														 //
-// Author : Jae Ken Lee														 //
-// Student ID : 2012722081													 //
-// --------------------------------------------------------------------------//
-// ver : 1.0																 //
-// Description : This Node class is composed to data part and pointer part in//
-// private and functions in public. The functions deal with data according to// 
-// use per many case.														 //
-//																			 //
-// Etc : Data Structure Assignment #1 (BST)									 //
+// File Name : Node.h													
+// Date : 2015/10/03													
+// Compiler : g++ 4.6.3													
+// Os : ubuntu 12.04.3													
+// Author : Jae Ken Lee														 
+// Student ID : 2012722081													
+// --------------------------------------------------------------------------
+// ver : 1.0										
+// Description : This Node class is composed to data part and pointer part in
+// private and functions in public. The functions deal with data according to 
+// use per many case.																							 //
+// Etc : Data Structure Assignment #1 (BST)				
 ///////////////////////////////////////////////////////////////////////////////
 #pragma once
 #include <string>
