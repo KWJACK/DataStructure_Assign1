@@ -19,6 +19,7 @@ In addition, there is a need for a queue to store the standby subscriber informa
  The functions to be implemented essentially as follows, has been designated, the command for performing the respective functions.
  
 *Specification*
+
 In here all function's parameter have standard.
 
 1.Name should be written last name + first name. And one more white space or tab exists between last and first name
