@@ -1,16 +1,16 @@
 ///////////////////////////////////////////////////////////////////////////////
-// File Name : BST.h														 //
-// Date : 2015/10/03														 //
-// Compiler : g++ 4.6.3														 //
-// Os : ubuntu 12.04.3														 //
-// Author : Jae Ken Lee														 //
-// Student ID : 2012722081													 //
-// --------------------------------------------------------------------------//
+// File Name : BST.h							     
+// Date : 2015/10/03							     
+// Compiler : g++ 4.6.3													
+// Os : ubuntu 12.04.3													
+// Author : Jae Ken Lee													
+// Student ID : 2012722081										
+// --------------------------------------------------------------------------
 // ver : 1.0																 //
-// Description : BST Class can be executed by file class's call, according to//
-// demands in inputfile and write the result to outputfile. Additionally, it //
-// has three Binary tree and one Queue data structure						 //
-// Etc : Data Structure Assignment #1 (BST)									 //
+// Description : BST Class can be executed by file class's call, according to
+// demands in inputfile and write the result to outputfile. Additionally, it 
+// has three Binary tree and one Queue data structure						 
+// Etc : Data Structure Assignment #1 (BST)									 
 ///////////////////////////////////////////////////////////////////////////////
 
 #pragma once
