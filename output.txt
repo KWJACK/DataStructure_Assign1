@@ -1,0 +1,477 @@
+RESERVE Flora Kim 1234567
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Flora Kim	1234567		1		Confirm
+
+RESERVE Danny Lover 9876543
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Danny Lover	9876543		2		Confirm
+
+RESERVE Keith Kang 1238765
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Keith Kang	1238765		3		Confirm
+
+RESERVE GilDong Hong 2446675
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+GilDong Hong	2446675		4		Confirm
+
+RESERVE Anna Lee 1239456
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Anna Lee	1239456		5		Confirm
+
+RESERVE Love Cho 1234952
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Love Cho	1234952		6		Confirm
+
+RESERVE Cherry Hong	1234546
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Cherry Hong	1234546		7		Confirm
+
+RESERVE Chen Xiang	1223469
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Chen Xiang	1223469		8		Confirm
+
+RESERVE Love Cho 1239954
+RESERVE error - Same Name
+
+RESERVE Evening Oh 3959586
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Evening Oh	3959586		9		Confirm
+
+PRINT CONF PHONE
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Chen Xiang	1223469		8		Confirm
+Cherry Hong	1234546		7		Confirm
+Flora Kim	1234567		1		Confirm
+Love Cho	1234952		6		Confirm
+Keith Kang	1238765		3		Confirm
+Anna Lee	1239456		5		Confirm
+GilDong Hong	2446675		4		Confirm
+Evening Oh	3959586		9		Confirm
+Danny Lover	9876543		2		Confirm
+
+RESERVE Minsu Kim 9586935
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Minsu Kim	9586935		10		Confirm
+
+RESERVE Mariah Carey 8485653
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Mariah Carey	8485653		11		Confirm
+
+RESERVE Hero  Jo 4857673
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Hero Jo	4857673		12		Confirm
+
+RESERVE Johnny Depp 5367683
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Johnny Depp	5367683		13		Confirm
+
+RESERVE Sunny   Lee	9695703
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Sunny Lee	9695703		14		Confirm
+
+RESERVE Rain Jeong	3957609
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Rain Jeong	3957609		15		Confirm
+
+RESERVE Brian Mcknight	3460492
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Brian Mcknight	3460492		16		Confirm
+
+RESERVE Mary Cho	7809192
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Mary Cho	7809192		17		Confirm
+
+PRINT CONF NAME
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Mariah Carey	8485653		11		Confirm
+Love Cho	1234952		6		Confirm
+Mary Cho	7809192		17		Confirm
+Johnny Depp	5367683		13		Confirm
+Cherry Hong	1234546		7		Confirm
+GilDong Hong	2446675		4		Confirm
+Rain Jeong	3957609		15		Confirm
+Hero Jo	4857673		12		Confirm
+Keith Kang	1238765		3		Confirm
+Flora Kim	1234567		1		Confirm
+Minsu Kim	9586935		10		Confirm
+Anna Lee	1239456		5		Confirm
+Sunny Lee	9695703		14		Confirm
+Danny Lover	9876543		2		Confirm
+Brian Mcknight	3460492		16		Confirm
+Evening Oh	3959586		9		Confirm
+Chen Xiang	1223469		8		Confirm
+
+RESERVE Claire Min	4029575
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Claire Min	4029575		18		Confirm
+
+RESERVE Minnie Choi	3467582
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Minnie Choi	3467582		19		Confirm
+
+RESERVE Colin Wang	4724768
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Colin Wang	4724768		20		Confirm
+
+RESERVE Plea Roe	9609754
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Plea Roe	9609754		21		Confirm
+
+RESERVE Jackson Wei	9685043
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Jackson Wei	9685043		22		Confirm
+
+RESERVE Ye-eun	Song	5495324
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Ye-eun Song	5495324		23		Confirm
+
+RESERVE Eddy Jung	3957857
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Eddy Jung	3957857		24		Confirm
+
+RESERVE Bibiana Hwang	4968679
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Bibiana Hwang	4968679		25		Confirm
+
+RESERVE Adora   Inn	4960234
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Adora Inn	4960234		26		Wait List
+
+UPDATE Love Cho 9003022
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Love Cho	9003022		6		Confirm
+
+CANCEL Hero  Jo
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Hero Jo	4857673		12		Cancel
+
+RESERVE Mary Kim	3905863
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Mary Kim	3905863		27		Wait List
+
+RESERVE Emily Yang	2049532
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Emily Yang	2049532		28		Wait List
+
+RESERVE Opera Peanut	2848664
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Opera Peanut	2848664		29		Wait List
+
+RESERVE Yangwui Xiang 3958501
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Yangwui Xiang	3958501		30		Wait List
+
+RESERVE Finale Jung	8395601
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Finale Jung	8395601		31		Wait List
+
+RESERVE Lily Nui	4977401
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Lily Nui	4977401		32		Wait List
+
+RESERVE QueenIei Okwi 9132593
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+QueenIei Okwi	9132593		33		Wait List
+
+RESERVE Mouse Mickey	4029480
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Mouse Mickey	4029480		34		Wait List
+
+RESERVE Oprah Winfrey	5000101
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Oprah Winfrey	5000101		35		Wait List
+
+RESERVE SpongeKen Bob 4958202
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+SpongeKen Bob	4958202		36		Wait List
+
+PRINT 2446675
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+GilDong Hong	2446675		4		Confirm
+
+PRINT CONF SEQNO
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Flora Kim	1234567		1		Confirm
+Danny Lover	9876543		2		Confirm
+Keith Kang	1238765		3		Confirm
+GilDong Hong	2446675		4		Confirm
+Anna Lee	1239456		5		Confirm
+Love Cho	9003022		6		Confirm
+Cherry Hong	1234546		7		Confirm
+Chen Xiang	1223469		8		Confirm
+Evening Oh	3959586		9		Confirm
+Minsu Kim	9586935		10		Confirm
+Mariah Carey	8485653		11		Confirm
+Johnny Depp	5367683		13		Confirm
+Sunny Lee	9695703		14		Confirm
+Rain Jeong	3957609		15		Confirm
+Brian Mcknight	3460492		16		Confirm
+Mary Cho	7809192		17		Confirm
+Claire Min	4029575		18		Confirm
+Minnie Choi	3467582		19		Confirm
+Colin Wang	4724768		20		Confirm
+Plea Roe	9609754		21		Confirm
+Jackson Wei	9685043		22		Confirm
+Ye-eun Song	5495324		23		Confirm
+Eddy Jung	3957857		24		Confirm
+Bibiana Hwang	4968679		25		Confirm
+Adora Inn	4960234		26		Confirm
+
+PRINT CONF NAME
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Mariah Carey	8485653		11		Confirm
+Love Cho	9003022		6		Confirm
+Mary Cho	7809192		17		Confirm
+Minnie Choi	3467582		19		Confirm
+Johnny Depp	5367683		13		Confirm
+Cherry Hong	1234546		7		Confirm
+GilDong Hong	2446675		4		Confirm
+Bibiana Hwang	4968679		25		Confirm
+Adora Inn	4960234		26		Confirm
+Rain Jeong	3957609		15		Confirm
+Eddy Jung	3957857		24		Confirm
+Keith Kang	1238765		3		Confirm
+Flora Kim	1234567		1		Confirm
+Minsu Kim	9586935		10		Confirm
+Anna Lee	1239456		5		Confirm
+Sunny Lee	9695703		14		Confirm
+Danny Lover	9876543		2		Confirm
+Brian Mcknight	3460492		16		Confirm
+Claire Min	4029575		18		Confirm
+Evening Oh	3959586		9		Confirm
+Plea Roe	9609754		21		Confirm
+Ye-eun Song	5495324		23		Confirm
+Colin Wang	4724768		20		Confirm
+Jackson Wei	9685043		22		Confirm
+Chen Xiang	1223469		8		Confirm
+
+PRINT CONF PHONE
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Chen Xiang	1223469		8		Confirm
+Cherry Hong	1234546		7		Confirm
+Flora Kim	1234567		1		Confirm
+Keith Kang	1238765		3		Confirm
+Anna Lee	1239456		5		Confirm
+GilDong Hong	2446675		4		Confirm
+Brian Mcknight	3460492		16		Confirm
+Minnie Choi	3467582		19		Confirm
+Rain Jeong	3957609		15		Confirm
+Eddy Jung	3957857		24		Confirm
+Evening Oh	3959586		9		Confirm
+Claire Min	4029575		18		Confirm
+Colin Wang	4724768		20		Confirm
+Adora Inn	4960234		26		Confirm
+Bibiana Hwang	4968679		25		Confirm
+Johnny Depp	5367683		13		Confirm
+Ye-eun Song	5495324		23		Confirm
+Mary Cho	7809192		17		Confirm
+Mariah Carey	8485653		11		Confirm
+Love Cho	9003022		6		Confirm
+Minsu Kim	9586935		10		Confirm
+Plea Roe	9609754		21		Confirm
+Jackson Wei	9685043		22		Confirm
+Sunny Lee	9695703		14		Confirm
+Danny Lover	9876543		2		Confirm
+
+CANCEL 1234567
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Flora Kim	1234567		1		Cancel
+
+PRINT WAIT
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Emily Yang	2049532		28		Wait List
+Opera Peanut	2848664		29		Wait List
+Yangwui Xiang	3958501		30		Wait List
+Finale Jung	8395601		31		Wait List
+Lily Nui	4977401		32		Wait List
+QueenIei Okwi	9132593		33		Wait List
+Mouse Mickey	4029480		34		Wait List
+Oprah Winfrey	5000101		35		Wait List
+SpongeKen Bob	4958202		36		Wait List
+
+PRINT CONF SEQNO
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Danny Lover	9876543		2		Confirm
+Keith Kang	1238765		3		Confirm
+GilDong Hong	2446675		4		Confirm
+Anna Lee	1239456		5		Confirm
+Love Cho	9003022		6		Confirm
+Cherry Hong	1234546		7		Confirm
+Chen Xiang	1223469		8		Confirm
+Evening Oh	3959586		9		Confirm
+Minsu Kim	9586935		10		Confirm
+Mariah Carey	8485653		11		Confirm
+Johnny Depp	5367683		13		Confirm
+Sunny Lee	9695703		14		Confirm
+Rain Jeong	3957609		15		Confirm
+Brian Mcknight	3460492		16		Confirm
+Mary Cho	7809192		17		Confirm
+Claire Min	4029575		18		Confirm
+Minnie Choi	3467582		19		Confirm
+Colin Wang	4724768		20		Confirm
+Plea Roe	9609754		21		Confirm
+Jackson Wei	9685043		22		Confirm
+Ye-eun Song	5495324		23		Confirm
+Eddy Jung	3957857		24		Confirm
+Bibiana Hwang	4968679		25		Confirm
+Adora Inn	4960234		26		Confirm
+Mary Kim	3905863		27		Confirm
+
+PRINT CONF NAME
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Mariah Carey	8485653		11		Confirm
+Love Cho	9003022		6		Confirm
+Mary Cho	7809192		17		Confirm
+Minnie Choi	3467582		19		Confirm
+Johnny Depp	5367683		13		Confirm
+Cherry Hong	1234546		7		Confirm
+GilDong Hong	2446675		4		Confirm
+Bibiana Hwang	4968679		25		Confirm
+Adora Inn	4960234		26		Confirm
+Rain Jeong	3957609		15		Confirm
+Eddy Jung	3957857		24		Confirm
+Keith Kang	1238765		3		Confirm
+Mary Kim	3905863		27		Confirm
+Minsu Kim	9586935		10		Confirm
+Anna Lee	1239456		5		Confirm
+Sunny Lee	9695703		14		Confirm
+Danny Lover	9876543		2		Confirm
+Brian Mcknight	3460492		16		Confirm
+Claire Min	4029575		18		Confirm
+Evening Oh	3959586		9		Confirm
+Plea Roe	9609754		21		Confirm
+Ye-eun Song	5495324		23		Confirm
+Colin Wang	4724768		20		Confirm
+Jackson Wei	9685043		22		Confirm
+Chen Xiang	1223469		8		Confirm
+
+PRINT CONF PHONE
+======================================================================
+   Name=======Phone-number===Reservation number===Reserve status
+======================================================================
+Chen Xiang	1223469		8		Confirm
+Cherry Hong	1234546		7		Confirm
+Keith Kang	1238765		3		Confirm
+Anna Lee	1239456		5		Confirm
+GilDong Hong	2446675		4		Confirm
+Brian Mcknight	3460492		16		Confirm
+Minnie Choi	3467582		19		Confirm
+Mary Kim	3905863		27		Confirm
+Rain Jeong	3957609		15		Confirm
+Eddy Jung	3957857		24		Confirm
+Evening Oh	3959586		9		Confirm
+Claire Min	4029575		18		Confirm
+Colin Wang	4724768		20		Confirm
+Adora Inn	4960234		26		Confirm
+Bibiana Hwang	4968679		25		Confirm
+Johnny Depp	5367683		13		Confirm
+Ye-eun Song	5495324		23		Confirm
+Mary Cho	7809192		17		Confirm
+Mariah Carey	8485653		11		Confirm
+Love Cho	9003022		6		Confirm
+Minsu Kim	9586935		10		Confirm
+Plea Roe	9609754		21		Confirm
+Jackson Wei	9685043		22		Confirm
+Sunny Lee	9695703		14		Confirm
+Danny Lover	9876543		2		Confirm
+
+PRINT CONF PHOOHE
+Need to check the Command whether corret or not
+CANCEL 5555555
+CANCEL -error
