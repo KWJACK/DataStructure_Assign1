@@ -9,13 +9,13 @@ But obivously in here, we will make only particular part of database.
 
  Flight database is composed by records including name, reservation serial number, phone number, and state of confirmation.
  
- Only twenty five or less of seats possible to use are ready. But if all seats are reserved, it is possible to get 10 or less clients' reservation in state of waiting.
-If subscriber cancels the reservation, waiting state will be changed to confirmation depending on the reservation order.
+  Only twenty five or less of seats possible to use are ready. But if all seats are reserved, it is possible to get 10 or less clients' reservation in state of waiting. If subscriber cancels the reservation, waiting state will be changed to confirmation depending on the reservation order.
  
-In here, the main operations being performed should be used to search, insert, delete, and (conditional) traverse on the tree(DS) about each node that saves the client's information.
- In order to use client's information as key value, the BST should be separately composed by each client's value.
- 
-In addition, there is a need for a queue to store the standby subscriber's information. Therefore, the complex data structure is a plurality of data structures that configure basing on the same node must be used. All data structures used must be configured by using the pointer.
+  In here, the main operations being performed should be used to search, insert, delete, and (conditional) traverse on the tree(DS) about each node that saves the client's information. 
+  
+  In order to use client's information as key value, the BST should be separately composed by each client's value.
+  
+  In addition, there is a need for a queue to store the standby subscriber's information. Therefore, the complex data structure is a plurality of data structures that configure basing on the same node must be used. All data structures used must be configured by using the pointer.
  The functions essentially implemented as follows and also informed about the command for performing the respective functions.
  
 *Specification*
@@ -24,6 +24,7 @@ In here all function's parameters have standard.
 
 1.Name should be written as follows: last name + first name.
   Also, there must be one or more white space or tab between last and first name.
+  
 2.Phone-number is fixed and can consist of 7 characters only.
 
 RESERVE [name] [phone-number]
