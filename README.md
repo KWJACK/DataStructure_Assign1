@@ -37,7 +37,7 @@ UPDATE [name] [phone-number]
   
 
 CANCEL [ reservation number | name | phone-number]
-  - Using of record(reservation number, name or phone-number) to find and delete the node containing the record
+  - Using of record(reservation number, or name, or phone-number) to find and delete the node containing the record
   - After then print cancel result
   - If subscriber cancel, high priority waiter's state will be changed to confirmation
   - Else waiter was changed to confirmation or cancel the reservation, removed from the waiting list
