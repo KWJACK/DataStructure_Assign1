@@ -1,29 +1,30 @@
 # DataStructure_Assign1
 *Introduction*
 
- This assignment proceeded in fall semester 2015.
-Our purpose is making reservation system for flight.
-But obivously in here, we will make only part of database.
+ This assignment was proceeded in fall semester of 2015.
+Our purpose was to make reservation system for flight.
+But obivously in here, we will make only particular part of database.
 
 *Condition*
 
- Flight database is composed record including name, reservation serial number, phone number, and state of confirmation.
+ Flight database is composed by records including name, reservation serial number, phone number, and state of confirmation.
  
- The number of enable seats only ready til twenty five. But in case of all seated had reserved, it is possible to get more 10 client's reservation as state of waiter. 
-If subscriber cancels the reservation, waiter state will be changed confirmation depending on the reservation order.
+ Only twenty five or less of seats possible to use are ready. But if all seats are reserved, it is possible to get 10 or less clients' reservation in state of waiting.
+If subscriber cancels the reservation, waiting state will be changed to confirmation depending on the reservation order.
  
-In here, the main operations to be performed should be used to search, insert, delete, and (conditional) traversal about each node what saves the client's information.
- In order to using client's information as to key value, the BST should separately composed by each client's value.
+In here, the main operations being performed should be used to search, insert, delete, and (conditional) traverse on the tree(DS) about each node that saves the client's information.
+ In order to use client's information as key value, the BST should be separately composed by each client's value.
  
-In addition, there is a need for a queue to store the standby subscriber information. Therefore, the complex data structure a plurality of data structures that are configured based on the same node must be used. All data structures used must be configured by using the pointer.
- The functions to be implemented essentially as follows, has been designated, the command for performing the respective functions.
+In addition, there is a need for a queue to store the standby subscriber's information. Therefore, the complex data structure is a plurality of data structures that configure basing on the same node must be used. All data structures used must be configured by using the pointer.
+ The functions essentially implemented as follows and also informed about the command for performing the respective functions.
  
 *Specification*
 
-In here all function's parameter have standard.
+In here all function's parameters have standard.
 
-1.Name should be written last name + first name. And one more white space or tab exists between last and first name
-2.Phone-number is fixed only 7 characters.
+1.Name should be written as follows: last name + first name.
+  Also, there must be one or more white space or tab between last and first name.
+2.Phone-number is fixed and can consist of 7 characters only.
 
 RESERVE [name] [phone-number]
   - Create Node included client info(name, serial number, phone number, and state of confirmation) and insert to BST.
@@ -33,33 +34,33 @@ RESERVE [name] [phone-number]
 
 UPDATE [name] [phone-number]
   - Find the Node as key of inputed name, and update the phone-number
-  - After then print changed subscriber information
+  - After then print changed the subscriber's information
   
 
 CANCEL [ reservation number | name | phone-number]
-  - Using of record(reservation number, or name, or phone-number) to find and delete the node containing the record
-  - After then print cancel result
-  - If subscriber cancel, high priority waiter's state will be changed to confirmation
-  - Else waiter was changed to confirmation or cancel the reservation, removed from the waiting list
+  - Using the record(reservation number, or name, or phone-number) to find and delete the node containing the record
+  - After then print cancelled result
+  - If subscriber cancels, high priority waiter's state will be changed to confirmation
+  - Else waiter will be changed to confirmation or cancel the reservation, and will be removed from the waiting list
   
 
 PRINT [name | phone-number]
-  - Print client info that match the name or phone number by using a key value(name or phone-number)
+  - Print client info that matches with the name or phone number by using a key value(name or phone-number)
 
 PRINT CONF [SEQNO | NAME | PHONE]
-  - According to one option among three factors(SEQNO, NAME, PHONE), print all node.
-  - All printing result should be sorted by ascending order
+  - According to one option among three factors(SEQNO, NAME, PHONE), print all nodes.
+  - All printing results should be sorted by ascending order
 
 PRINT WAIT
-  - Print wait list by priority
+  - Print waiting list by priority
   
 *The configuration file*
 
 Input data file
 
-  - This file is written command add, update a record or delete.
+  - In this file the command to add and/or update a record or delete is written.
   
 Output result file
 
-  - Record the result of implement command and error mesg
+  - Record the result of implement command and/or error mesg
   
